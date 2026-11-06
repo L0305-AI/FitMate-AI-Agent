@@ -1,0 +1,17 @@
+# ===== 敏感隐私文件 =====
+.env
+*.env
+users.json
+
+# ===== Python 缓存 =====
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== 前端依赖与打包 =====
+node_modules/
+dist/
+
+# ===== 系统与编辑器文件 =====
+.DS_Store
+.vscode/
